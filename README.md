@@ -1,5 +1,4 @@
 # Simple-Interest-Calculator
-# Simple Interest Calculator
 
 ## Project Description
 
